@@ -1,4 +1,4 @@
-# Kampfordeling for Hommelvik 2025
+# Kampfordeling for Hommelvik G11, 1, 2 og 3
 
 ## Sammendrag
 - **Lag 1**: 20 kamper (10 hjemme, 10 borte, 3 langreiser)
@@ -6,7 +6,7 @@
 - **Lag 3**: 19 kamper (9 hjemme, 10 borte, 3 langreiser)
 
 ## Månedsfordeling
-For å sikre en god fordeling av belastningen gjennom sesongen, viser tabellen nedenfor hvordan kampene er fordelt over månedene:
+Tabellen nedenfor viser hvordan kampene er fordelt over månedene for alle tre lag:
 
 | Måned    | Lag 1 | Lag 2 | Lag 3 | Totalt |
 |----------|-------|-------|-------|--------|
